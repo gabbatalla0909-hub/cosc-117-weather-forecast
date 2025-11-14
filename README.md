@@ -1,4 +1,4 @@
-# COSC 117 Weather Forecast (Buggy)
+# COSC 117 Weather Forecast (fixed)
 
 ## Installation
 
