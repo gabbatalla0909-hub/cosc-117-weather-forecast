@@ -1,0 +1,4 @@
+[
+  "test_backend.py::test_co_level_calculation",
+  "test_backend.py::test_so2_level_calculation"
+]
